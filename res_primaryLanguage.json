@@ -1,0 +1,120 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "I am Robert Calpito. I am an up and coming full stack developer with a personal interest in creative design, art, music and cooking. I have a breadth of professional experience in metrology, color science, quality engineering and now programming. I am hopeful to take my previous experience and merge them with what is current. ",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Tic-Tac-Toe",
+      "startDate": "2022",
+      "description": "One of the first Learn projects. This was built from the ground up and demonstrated react props and states. ",
+      "images": [
+        "images/portfolio/TicTacToe_WinScreen.jpg",
+        "images/portfolio/TicTacToe.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
+        },
+        {
+          "class": "devicon-react-plain",
+          "name": "react"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "html"
+        }
+      ]
+    },
+    {
+      "title": "Bread",
+      "startDate": "2018",
+      "description": "This was a personal project, not really related to development. During my engineering career, I picked up cooking on a very deep level. I became infatuated with the science, and process of cooking. With that, I stumbled upon the wonderful world of fermentation. Bread is a very intensive process that requires attention to detail, as well as strict process adherence. Any change in process, materials, and environment lead to a very different experience.. a lot like software!",
+      "images": [
+        "images/portfolio/photography/p1.jpg",
+        "images/portfolio/photography/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "Salt"
+        },
+        {
+          "class": "devicon--plain",
+          "name": "Water"
+        },
+        {
+          "class": "devicon--plain",
+          "name": "Flour"
+        }
+      ]
+    },
+    {
+      "title": "In-Progress: Color Palette Generator",
+      "startDate": "2022",
+      "description": "This is one of my first personal projects i am working on. This project is based off of my background in metrology and color science. The end product will consist of an interface where a user can input an image and a color palette consisting of 5 key colors identified would be output in RGB/CYMK/CIE/L*ab color coordinates. Come join me as i bite off more than i can chew.",
+      "images": [
+        "src/assets/TicTacToe_WinScreen.jpg",
+        "src/assets/TicTacToe.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Learn Academy",
+      "title": "Full Stack Development",
+      "years": "12.2021 - Current",
+      "mainTech": [],
+      "technologies": []
+    },
+    {
+      "company": "Northrop Grumman",
+      "title": "Senior Supplier Quality Engineer",
+      "years": "05.2019 - 12.2020",
+      "mainTech": [],
+      "technologies": []
+    },
+    {
+      "company": "Gamma Scientific",
+      "title": "Systems Engineer",
+      "years": "12.2016 - 1.2019",
+      "mainTech": [],
+      "technologies": []
+    },
+    {
+      "company": "Gamma Scientific",
+      "title": "Electro-Optical Engineer",
+      "years": "10.2014 - 12.2016",
+      "mainTech": [],
+      "technologies": []
+    }
+  ]
+}
