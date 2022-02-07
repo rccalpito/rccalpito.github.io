@@ -42,10 +42,7 @@
       "title": "Bread",
       "startDate": "2018",
       "description": "This was a personal project, not really related to development. During my engineering career, I picked up cooking on a very deep level. I became infatuated with the science, and process of cooking. With that, I stumbled upon the wonderful world of fermentation. Bread is a very intensive process that requires attention to detail, as well as strict process adherence. Any change in process, materials, and environment lead to a very different experience.. a lot like software!",
-      "images": [
-        "images/portfolio/photography/p1.jpg",
-        "images/portfolio/photography/p2.jpg"
-      ],
+      "images": ["images/portfolio/Bread1.jpg", "images/portfolio/Bread2.jpg"],
       "url": "https://github.com",
       "technologies": [
         {
