@@ -40,8 +40,8 @@
       "startDate": "2022",
       "description": "One of the first Learn projects. This was built from the ground up and demonstrated react props and states. During the build process, I came to learn all about react states, props, as well as asynchronous processes. Through the initial implementation and design of the final product, all went well. My coding partner and I had hit a wall when implementing win conditions, and went onto a very deep worn hole about React states and how they are, at time, asynchronous.",
       "images": [
-        "images/portfolio/TicTacToe_WinScreen.jpg",
-        "images/portfolio/TicTacToe.jpg"
+        "images/portfolio/TicTacToe_WinScreen.jpeg",
+        "images/portfolio/TicTacToe.jpeg"
       ],
       "url": "",
       "technologies": [
@@ -88,10 +88,7 @@
       "title": "In-Progress: Color Palette Generator",
       "startDate": "2022",
       "description": "This is one of my first personal projects i am working on. This project is based off of my background in metrology and color science. The end product will consist of an interface where a user can input an image and a color palette consisting of 5 key colors identified would be output in RGB/CYMK/CIE/L*ab color coordinates. Come join me as i bite off more than i can chew.",
-      "images": [
-        "src/assets/TicTacToe_WinScreen.jpg",
-        "src/assets/TicTacToe.jpg"
-      ],
+      "images": ["images/portfolio/ColorPalette.png"],
       "url": "https://github.com",
       "technologies": [
         {
@@ -112,7 +109,7 @@
       "title": "Gamma Scientific NED-LMD",
       "startDate": "2016-2018",
       "description": "I have a very personal connection to the metrology world, as it was my first career after college. I had the very unique opportunity to work with some of the greatest minds in the world of metrology, to develop a tool that has never been seen, or thought of before. The NED system was the culmination of my experience in display metrology, as well as my skills in integration as a systems engineer. The NED-LMD is a system that is used to perform extremely precise and accurate measurements of Augmented Reality and Virtual Reality devices. The NED-LMD uses a 6 axis robot to make precisely controlled and articulated movements to mimic the human eye. The robot is then hooked up to a custom designed camera consisting of custom optics with a focal range of -20 - +20 diopters, a mechanical slide that switches from a 20MP monochrome sensor to a highly accurate and extremely fast spectroradiometer. My role in the project was to perform the initial system design architecture, as well as interfacing with experts in the field to ensure the product had the capability to measure current and future near eye device products.  ",
-      "images": ["src/assets/NED-LMD.jpg"],
+      "images": ["images/portfolio/NED-LMD.jpeg"],
       "url": "https://gamma-sci.com/products/ned-lmd-near-eye-display-measurement-systems/ned-lmd-wg-series/",
       "technologies": []
     }
