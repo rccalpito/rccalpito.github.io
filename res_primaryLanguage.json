@@ -14,7 +14,7 @@
       "title": "LightBulb Project",
       "startDate": "2022",
       "description": "This was the first project the Learn cohort had that was truly hands off, and relied on personal development skills. This project was built and deployed using react. During the course of this project, I learned about react passing react states and props through various react components. I also took the opportunity to learn loosely about CSS and various stylings. After watching youtube content creators making very complex shapes and designs, I designed the lightbulb, box, and switch through CSS.",
-      "images": ["images/portfolio/LB1.jpg", "images/portfolio/LB2.jpg"],
+      "images": ["images/portfolio/LB1.jpeg", "images/portfolio/LB2.jpeg"],
       "url": "",
       "technologies": [
         {
