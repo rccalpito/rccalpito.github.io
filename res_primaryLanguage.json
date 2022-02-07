@@ -11,9 +11,34 @@
   },
   "projects": [
     {
+      "title": "LightBulb Project",
+      "startDate": "2022",
+      "description": "This was the first project the Learn cohort had that was truly hands off, and relied on personal development skills. This project was built and deployed using react. During the course of this project, I learned about react passing react states and props through various react components. I also took the opportunity to learn loosely about CSS and various stylings. After watching youtube content creators making very complex shapes and designs, I designed the lightbulb, box, and switch through CSS.",
+      "images": ["images/portfolio/LB1.jpg", "images/portfolio/LB2.jpg"],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
+        },
+        {
+          "class": "devicon-react-plain",
+          "name": "react"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "html"
+        }
+      ]
+    },
+    {
       "title": "Tic-Tac-Toe",
       "startDate": "2022",
-      "description": "One of the first Learn projects. This was built from the ground up and demonstrated react props and states. ",
+      "description": "One of the first Learn projects. This was built from the ground up and demonstrated react props and states. During the build process, I came to learn all about react states, props, as well as asynchronous processes. Through the initial implementation and design of the final product, all went well. My coding partner and I had hit a wall when implementing win conditions, and went onto a very deep worn hole about React states and how they are, at time, asynchronous.",
       "images": [
         "images/portfolio/TicTacToe_WinScreen.jpg",
         "images/portfolio/TicTacToe.jpg"
@@ -41,12 +66,12 @@
     {
       "title": "Bread",
       "startDate": "2018",
-      "description": "This was a personal project, not really related to development. During my engineering career, I picked up cooking on a very deep level. I became infatuated with the science, and process of cooking. With that, I stumbled upon the wonderful world of fermentation. Bread is a very intensive process that requires attention to detail, as well as strict process adherence. Any change in process, materials, and environment lead to a very different experience.. a lot like software!",
+      "description": "This was a personal project, not really related to development. During my engineering career, I picked up cooking on a very deep level. I became infatuated with the science, and process of cooking. With that, I stumbled upon the wonderful world of fermentation. Bread is a very intensive process that requires attention to detail, as well as strict process adherence. Any change in process, materials, and environment lead to a very different experience.. a lot like software! I've been very conscious about the importance of processes. I've implemented my practice of strictly adhering to processes to both my engineering career, as well as my personal life.",
       "images": ["images/portfolio/Bread1.jpg", "images/portfolio/Bread2.jpg"],
-      "url": "https://github.com",
+      "url": "",
       "technologies": [
         {
-          "class": "devicon-react-original",
+          "class": "devicon--original",
           "name": "Salt"
         },
         {
@@ -82,6 +107,14 @@
           "name": "HTML"
         }
       ]
+    },
+    {
+      "title": "Gamma Scientific NED-LMD",
+      "startDate": "2016-2018",
+      "description": "I have a very personal connection to the metrology world, as it was my first career after college. I had the very unique opportunity to work with some of the greatest minds in the world of metrology, to develop a tool that has never been seen, or thought of before. The NED system was the culmination of my experience in display metrology, as well as my skills in integration as a systems engineer. The NED-LMD is a system that is used to perform extremely precise and accurate measurements of Augmented Reality and Virtual Reality devices. The NED-LMD uses a 6 axis robot to make precisely controlled and articulated movements to mimic the human eye. The robot is then hooked up to a custom designed camera consisting of custom optics with a focal range of -20 - +20 diopters, a mechanical slide that switches from a 20MP monochrome sensor to a highly accurate and extremely fast spectroradiometer. My role in the project was to perform the initial system design architecture, as well as interfacing with experts in the field to ensure the product had the capability to measure current and future near eye device products.  ",
+      "images": ["src/assets/NED-LMD.jpg"],
+      "url": "https://gamma-sci.com/products/ned-lmd-near-eye-display-measurement-systems/ned-lmd-wg-series/",
+      "technologies": []
     }
   ],
   "experience": [
