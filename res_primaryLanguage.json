@@ -11,6 +11,39 @@
   },
   "projects": [
     {
+      "title": "CatTinder -- KatNip",
+      "startDate": "2022",
+      "description": "It's like tinder.. but for cats!! Kind of... Cat Tinder was the first applications my partner and I built, that was a true full stack React and Rails application. Within the application we have a beautiful and working front end, full CRUD and RESTful routes functionality.  This application was a culmination of all the lessons learned at Learn.",
+      "images": [
+        "images/portfolio/ct_splash_page.jpeg",
+        "images/portfolio/ct_index_page.jpeg",
+        "images/portfolio/ct_show_page.jpeg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
+        },
+        {
+          "class": "devicon-react-plain",
+          "name": "react"
+        },
+        {
+          "class": "devicon-ruby-plain",
+          "name": "ruby"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "html"
+        }
+      ]
+    },
+    {
       "title": "LightBulb Project",
       "startDate": "2022",
       "description": "This was the first project the Learn cohort had that was truly hands off, and relied on personal development skills. This project was built and deployed using react. During the course of this project, I learned about react passing react states and props through various react components. I also took the opportunity to learn loosely about CSS and various stylings. After watching youtube content creators making very complex shapes and designs, I designed the lightbulb, box, and switch through CSS.",
@@ -40,8 +73,8 @@
       "startDate": "2022",
       "description": "One of the first Learn projects. This was built from the ground up and demonstrated react props and states. During the build process, I came to learn all about react states, props, as well as asynchronous processes. Through the initial implementation and design of the final product, all went well. My coding partner and I had hit a wall when implementing win conditions, and went onto a very deep worn hole about React states and how they are, at time, asynchronous.",
       "images": [
-        "images/portfolio/TicTacToe_WinScreen.jpeg",
-        "images/portfolio/TicTacToe.jpeg"
+        "images/portfolio/TicTacToe.jpeg",
+        "images/portfolio/TicTacToe_WinScreen.jpeg"
       ],
       "url": "",
       "technologies": [
